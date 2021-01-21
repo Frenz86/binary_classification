@@ -1,0 +1,6 @@
+streamlit==0.73
+pandas
+numpy
+matplotlib
+seaborn
+pillow
